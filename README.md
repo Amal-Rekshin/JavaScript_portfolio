@@ -13,7 +13,7 @@ This project is a personal portfolio website showcasing my skills, experience, a
 - **Animations**: Enhanced with Animate.css for a polished user experience.
 
 ## Demo
-[Live Demo](https://amal-rekshin.github.io/JavaScript_portfolio/)
+[Live Demo](https://rekshin-portfolio.netlify.app/)
 
 ## File Structure
 ```
